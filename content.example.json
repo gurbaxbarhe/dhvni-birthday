@@ -1,0 +1,35 @@
+{
+  "name": "Her Name",
+  "landing": {
+    "title": "Happy Birthday",
+    "subtitle": "I love you",
+    "facePhoto": "face.jpg",
+    "envelopeHint": "tap the envelope"
+  },
+  "card": {
+    "badge": "her name",
+    "title": "Happy Birthday",
+    "note": "",
+    "songLabel": "Dedicated Special Song For You",
+    "spotifyTrackId": "<spotify track id>",
+    "songCaption": "why this song",
+    "nextButton": "things i love about you"
+  },
+  "things": {
+    "title": "Things I love about you",
+    "subtitle": "a few of the many reasons",
+    "items": [
+      { "text": "One thing.", "photos": ["one.jpg"] },
+      { "text": "Another thing.", "photos": ["two.jpg", "three.jpg"] }
+    ],
+    "nextButton": "one more thing"
+  },
+  "letter": {
+    "badge": "a birthday letter",
+    "kicker": "a letter, just for you",
+    "greeting": "Dear Name,",
+    "paragraphs": ["Paragraph one.", "Paragraph two."],
+    "signoff": "yours,",
+    "signature": "Me"
+  }
+}
