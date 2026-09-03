@@ -23,7 +23,6 @@ export interface Content {
   };
   letter: {
     badge: string;
-    kicker: string;
     greeting: string;
     paragraphs: string[];
     signoff: string;

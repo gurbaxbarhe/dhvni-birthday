@@ -144,18 +144,11 @@ body {
   margin: 8px 0 0;
   text-align: center;
 }
-.sub,
-.kicker {
+.sub {
   color: var(--ink-soft);
   font-size: 14px;
   text-align: center;
   margin: 8px 0 0;
-}
-.kicker {
-  font-family: var(--pixel);
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  font-size: 12px;
 }
 .label {
   font-family: var(--pixel);

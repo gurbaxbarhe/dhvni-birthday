@@ -8,7 +8,6 @@ const PARAGRAPH_DELAY_STEP_S = 0.3;
 export const initLetter = ({ content }: Bundle): void => {
   const { letter } = content;
   setText("letter-badge", letter.badge);
-  setText("letter-kicker", letter.kicker);
   setText("letter-greeting", letter.greeting);
   setText("letter-signoff", letter.signoff);
   setText("letter-signature", letter.signature);

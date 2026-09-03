@@ -26,7 +26,6 @@
   },
   "letter": {
     "badge": "a birthday letter",
-    "kicker": "a letter, just for you",
     "greeting": "Dear Name,",
     "paragraphs": ["Paragraph one.", "Paragraph two."],
     "signoff": "yours,",
